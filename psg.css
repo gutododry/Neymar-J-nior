@@ -1,15 +1,15 @@
 body {
     text-align: center;
     font-size: 18px;
-    background-color: #C5A028; /* Dourado */
-    color: #FFFFFF;            /* Branco */
+    background-color: #001C3F; /* Azul escuro do PSG */
+    color: #FFFFFF;            /* Texto em branco */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
 }
 
 h1, h2, h3 {
-    color: #FFFFFF;
+    color: #DA291C;            /* Vermelho nos títulos */
 }
 
 p {
@@ -18,7 +18,7 @@ p {
 
 nav a {
     font-size: 20px;
-    color: #FFFFFF;
+    color: #DA291C;            /* Links em vermelho */
     text-decoration: none;
     font-weight: bold;
     margin: 0 15px;
